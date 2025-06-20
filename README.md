@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Salom 👋, men Abduqodirman!</h1>
+<h3 align="center">Back-end dasturchi | Django & Python mutaxassisi</h3>
 
-<!--
-**abduqodirDev/abduqodirDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-stats.clckblog.space/api?username=abduqodirDev&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-stats.clckblog.space/api/top-langs/?username=abduqodirDev&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 Haqimda qisqacha:
+
+- 💻 Asosan Python, Django bilan ishlayman  
+- 🛠️ API yaratish, backend tizimlar, ma'lumotlar bazasi bilan ishlashga ixtisoslashganman  
+- 🌍 Web-saytlarni ishlab chiqish va serverga deploy qilishni yaxshi ko‘raman  
+- 🧠 O‘rganishga va yangiliklarga doim ochiqman
+
+---
+
+### 🚀 Ishlatadigan texnologiyalar va vositalar:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,git,github,linux,nginx,vscode,html,css,js,redis,postman&perline=8" />
+</p>
+
+---
+
+### 📈 GitHub Statistikam:
+
+- ⭐ Umumiy yulduzlar: **8+**
+- 🔁 Total commits (2025): **234**
+- ✅ Pull Requests: **14**
+- ❗ Issues: **5**
+- 🧑‍💻 O‘tgan yili hissa qo‘shgan: **15 ta loyihaga**
+
+---
+
+### 📫 Muloqot uchun:
+
+- Email: `your-email@example.com` (xohlasangiz yozib qo‘shaman)
+- Telegram: [@abduqodirDev](https://t.me/abduqodirDev)
+
+---
+
+> Ushbu README avtomatik yangilanmaydi, lekin istasangiz GitHub Action yordamida statistikani har kuni yangilaydigan qilish mumkin. Xohlasangiz yordam beraman.
