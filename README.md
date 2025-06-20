@@ -40,9 +40,8 @@
 
 ### 📫 Muloqot uchun:
 
-- Email: `your-email@example.com` (xohlasangiz yozib qo‘shaman)
-- Telegram: [@abduqodirDev](https://t.me/abduqodirDev)
+- Email: `abduqodirdusmurodov@gmail.com` 
+- Telegram: [@abduqodirDev](https://t.me/atur12a)
 
 ---
 
-> Ushbu README avtomatik yangilanmaydi, lekin istasangiz GitHub Action yordamida statistikani har kuni yangilaydigan qilish mumkin. Xohlasangiz yordam beraman.
